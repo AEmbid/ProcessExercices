@@ -1,0 +1,4 @@
+total 5
+drwxrwx---+ 1 alu None   0 Oct  7 10:28 Debug
+-rw-rw-r--+ 1 alu None   0 Oct  7 10:28 ficsalida
+-rwxrwx---+ 1 alu None 491 Oct  5 13:53 sis.c
