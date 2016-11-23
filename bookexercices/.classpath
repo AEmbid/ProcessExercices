@@ -6,6 +6,7 @@
 	<classpathentry kind="src" path="reloj"/>
 	<classpathentry kind="src" path="contador"/>
 	<classpathentry kind="src" path="thread_suspender"/>
+	<classpathentry kind="src" path="thread_synchro"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
